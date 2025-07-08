@@ -1,0 +1,104 @@
+{
+  "Home": {
+    "title": "Saleh Alqahtani - Full-Stack Developer & Cybersecurity Researcher",
+    "intro": "I build MVPs, educational apps, rich analytics dashboard and cybersecurity tools that solve real-world problems.",
+    "cta": "Get in Touch"
+  },
+
+  "About": {
+    "title": "About Me",
+    "bio": "I'm a full-stack developer and current university instructor at SEU University. I teach programming and information systems courses, including Java, PHP, JavaScript, HTML, CSS, and backend technologies. I've also led the design and launch of a startup platform that connected service providers with customers. Although the project eventually closed due to funding constraints, it taught me valuable lessons in team leadership, UI/UX design, and product development.",
+    "currentFocus": "My PhD research focuses on detecting phishing and social engineering attacks using machine learning on multilingual datasets. I've developed a system that not only flags suspicious messages, but also explains the risks and educates users using AI-powered feedback.",
+    "skills": [
+      "React.js", "Next.js", "Node.js", "PostgreSQL", "Tailwind CSS", "Firebase", "Express.js", "Figma", "UX/UI design", "Cybersecurity", "Machine Learning", "Research", "Teaching", "Documentation"
+    ]
+  },
+
+  "Projects": [
+    {
+      "name": "Phishing Detection Platform",
+      "description": "A research-driven web app using machine learning to detect phishing messages in Arabic and English. Includes tailored user education and explanations.",
+      "tech": ["React.js", "Node.js", "PostgreSQL", "OpenAI API"],
+      "liveDemo": "https://phishing-app.vercel.app",
+      "sourceCode": "https://github.com/saleh/phishing-detection"
+    },
+    {
+      "name": "Maze Puzzle Game",
+      "description": "A browser-based maze game designed to teach logic and spatial reasoning to students.",
+      "tech": ["HTML5", "JavaScript", "Canvas API"],
+      "liveDemo": "https://maze-game.vercel.app",
+      "sourceCode": "https://github.com/saleh/maze-game"
+    },
+    {
+      "name": "Learn and Play Math",
+      "description": "A fun educational platform where kids practice math, spelling, vocabulary, and geometry through interactive games and quizzes.\n\n- Adaptive difficulty keeps kids challenged\n- Positive feedback and badges encourage learning\n- Modular games for easy expansion\n\nProgramming Languages Used: HTML, JavaScript, CSS, Python",
+      "tech": ["HTML", "JavaScript", "CSS", "Python"],
+      "liveDemo": "https://math-quiz.vercel.app",
+      "sourceCode": "https://github.com/saleh/math-quiz",
+      "image": "src/assets/learn-play-math.png"
+    },
+    {
+      "name": "Phishing Backend API",
+      "description": "Node.js backend with PostgreSQL for managing user authentication and report submission for a service app.",
+      "tech": ["Node.js", "Express.js", "PostgreSQL"],
+      "liveDemo": "https://enjaz-api.onrender.com",
+      "sourceCode": "https://github.com/saleh/"
+    }
+  ],
+
+  "Research": {
+    "title": "PhD Research Overview",
+    "description": "My doctoral research focuses on combating phishing attacks using a human-centered AI model. The model is trained on large Arabic and English corpora and identifies not only whether a message is phishing but also explains why — offering real-time educational tips to users. The goal is to shift from binary detection to a learning-focused cybersecurity tool."
+  },
+
+  "Publications": [
+    {
+      "title": "Advanced Spam Classification Techniques for Arabic Datasets: A Human-Centered Multilingual Model Adaptation",
+      "authors": "Saleh Alqahtani et al.",
+      "conference": "Under Review, 2025",
+      "link": null,
+      "type": "preprint",
+      "status": "pending",
+      "tags": ["Arabic spam detection", "multilingual NLP", "human-centered AI", "phishing awareness", "transformer models"]
+    },
+    {
+      "title": "Strengthening Cybersecurity: The Influence of Student Behavior, Perceived Factors, and Mitigating Strategies on Phishing Attack Perception",
+      "authors": "Saleh Alqahtani et al.",
+      "conference": "Lecture Notes in Networks and Systems, 2024",
+      "link": "https://doi.org/10.1007/978-981-96-1483-7_27",
+      "type": "book_chapter",
+      "tags": ["Cybersecurity", "Student Behavior", "Phishing", "Education"]
+    },
+    {
+      "title": "Effects of Personal Characteristics on Phishing Awareness, Anti-Phishing Tool Usage, and Phishing Avoidance Behavior: A Structural Equation Modeling Approach",
+      "authors": "Saleh Alqahtani et al.",
+      "conference": "IEEE 17th International Conference on Security of Information and Networks (SIN), 2024",
+      "link": "https://doi.org/10.1109/SIN63213.2024.10871302",
+      "type": "conference",
+      "tags": ["Phishing Awareness", "User Behavior", "Anti-Phishing Tools"]
+    },
+    {
+      "title": "Enhancing Phishing Resilience in Academia: The Mediating Role of Anti-Phishing Tools on Student Awareness and Behavior",
+      "authors": "Saleh Alqahtani et al.",
+      "conference": "IEEE 17th International Conference on Security of Information and Networks (SIN), 2024",
+      "link": "https://doi.org/10.1109/SIN63213.2024.10871376",
+      "type": "conference",
+      "tags": ["Academic Security", "Phishing Resilience", "Student Awareness"]
+    },
+    {
+      "title": "Uncovering Flaws in Anti-Phishing Blacklists for Phishing Websites Using Novel Cloaking Techniques",
+      "authors": "Saleh Alqahtani et al.",
+      "conference": "19th International Conference on Security and Cryptography (SECRYPT), 2024",
+      "link": "https://doi.org/10.5220/0012135600003555",
+      "type": "conference",
+      "tags": ["Anti-Phishing", "Blacklists", "Cloaking Techniques"]
+    }
+  ],
+
+  "Contact": {
+    "email": "smaq777@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/saleh-alqahtani",
+    "github": "https://github.com/smaq777",
+    "note": "Feel free to reach out for freelance projects, research collaboration, or startup consulting."
+  }
+}
